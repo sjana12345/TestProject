@@ -1,0 +1,162 @@
+{
+  "productName": "Product_56567433",
+  "categories": 1057,
+  "attributeId": 9,
+  "pos": false,
+  "brand": 36,
+  "shippingMrp": 899,
+  "shippingRetailPrice": 678,
+  "shippingCurrency": "INR",
+  "shippingIsbn": "1111111111111",
+  "shippingEan": "1111111111111",
+  "shippingUpc": "1111111111111",
+  "shippingLength": 12,
+  "shippingWidth": 12,
+  "shippingHeight": 12,
+  "shippingWeight": 120,
+  "shippingHsnCode": "QA6363",
+  "shippingGst": "5",
+  "metaExclude": false,
+  "metaTitle": "Simple_Product_78687687686",
+  "metaKeyword": "Simple_Product_Keyword_78687687686",
+  "metaDesc": "Simple_Product_Description_78687687686",
+  "metaHeading": "",
+  "productAttributes": [
+    {
+      "code": "fashion_colour",
+      "name": "Colour",
+      "value": "Red",
+      "is_key": false
+    },
+    {
+      "code": "size_3",
+      "name": "Size",
+      "value": "Free Size",
+      "is_key": false
+    },
+    {
+      "code": "category_9",
+      "name": "Category",
+      "value": "",
+      "is_key": false
+    },
+    {
+      "code": "type_9",
+      "name": "Type",
+      "value": "Polo",
+      "is_key": false
+    },
+    {
+      "code": "fabric_9",
+      "name": "Fabric",
+      "value": "Cotton",
+      "is_key": false
+    },
+    {
+      "code": "pattern_9",
+      "name": "Pattern",
+      "value": "",
+      "is_key": false
+    },
+    {
+      "code": "neck_shape_9",
+      "name": "Neck Shape",
+      "value": "Turtle Neck",
+      "is_key": false
+    },
+    {
+      "code": "sleeves_9",
+      "name": "Sleeves",
+      "value": "",
+      "is_key": false
+    },
+    {
+      "code": "style_9",
+      "name": "Style",
+      "value": "",
+      "is_key": false
+    },
+    {
+      "code": "occasion_9",
+      "name": "Occasion",
+      "value": "",
+      "is_key": true
+    },
+    {
+      "code": "combo_9",
+      "name": "Combo",
+      "value": "Single",
+      "is_key": false
+    },
+    {
+      "code": "fit_9",
+      "name": "Fit",
+      "value": "",
+      "is_key": true
+    },
+    {
+      "code": "shirt_length_9",
+      "name": "Shirt Length",
+      "value": "",
+      "is_key": false
+    },
+    {
+      "code": "wash_care_9",
+      "name": "Wash Care",
+      "value": "",
+      "is_key": false
+    }
+  ],
+  "productKeyAttributes": [
+    {
+      "code": "occasion_9",
+      "name": "Occasion",
+      "value": "",
+      "is_key": true
+    },
+    {
+      "code": "fit_9",
+      "name": "Fit",
+      "value": "",
+      "is_key": true
+    }
+  ],
+  "productVariantsDetails": [
+    
+  ],
+  "description": "Product_56567433",
+  "otherDetails": "Product_56567433",
+  "productImages": [
+    {
+      "name": "simple",
+      "imageUrls": [
+        "https://nextdoorhub.imgix.net/ndh-admin/productImages/Simple_1583991057655.jpg"
+      ]
+    }
+  ],
+  "productVariants": [
+    
+  ],
+  "competitiveAnalysis": [
+    {
+      "code": "amazon",
+      "value": ""
+    },
+    {
+      "code": "flipkart",
+      "value": ""
+    },
+    {
+      "code": "paytm",
+      "value": ""
+    },
+    {
+      "code": "snapdeal",
+      "value": ""
+    },
+    {
+      "code": "myntra",
+      "value": ""
+    }
+  ]
+}
